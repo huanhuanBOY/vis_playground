@@ -1,0 +1,584 @@
+{
+    "name": "flare",
+    "children": [{
+            "name": "algebraic",
+            "children": [{
+                    "name": "Elementary algebra",
+                    "value": 34
+                },
+                {
+                    "name": "Equations_(involving one step in finding solution)",
+                    "value": 14
+                },
+                {
+                    "name": "Equations_(involving two or more steps in_finding solution)",
+                    "value": 29
+                },
+                {
+                    "name": "Equations_(linear equations in two unknowns)",
+                    "value": 28
+                },
+                {
+                    "name": "Laws of Integral Indices",
+                    "value": 17
+                },
+                {
+                    "name": "Number patterns_(Other number patterns)",
+                    "value": 36
+                },
+                {
+                    "name": "Simple Polynomials_(basic concept, addition, subtraction, multiplication)",
+                    "value": 17
+                },
+                {
+                    "name": "Number patterns_(Square numbers, triangular numbers)",
+                    "value": 15
+                },
+                {
+                    "name": "Formulas",
+                    "value": 29
+                },
+                {
+                    "name": "Identities",
+                    "value": 7
+                },
+                {
+                    "name": "Simple Polynomials_(factorisation)",
+                    "value": 18
+                },
+                {
+                    "name": "Inequalities_(linear inequalitites in one unknown)",
+                    "value": 7
+                }
+            ]
+        },
+        {
+            "name": "data handling",
+            "children": [{
+                    "name": "Algorithms",
+                    "value": 22
+                },
+                {
+                    "name": "Bar charts_(1 square represents 1, 2, 5 or 10 units)",
+                    "value": 17
+                },
+                {
+                    "name": "Bar charts_(Compound bar charts, 1 square represents 50 or 100 units)",
+                    "value": 18
+                },
+                {
+                    "name": "Bar charts_(Frequency counts of 1000 or above)",
+                    "value": 9
+                },
+                {
+                    "name": "Block graphs",
+                    "value": 5
+                },
+                {
+                    "name": "Broken line graphs",
+                    "value": 14
+                },
+                {
+                    "name": "Deduction from data and information",
+                    "value": 74
+                },
+                {
+                    "name": "Measures of Central Tendency (averages)",
+                    "value": 19
+                },
+                {
+                    "name": "Pictograms_(1 picture represents 1 unit)",
+                    "value": 6
+                },
+                {
+                    "name": "Probability_(describe the chance of happening)",
+                    "value": 11
+                },
+                {
+                    "name": "Stem-and-leaf diagrams",
+                    "value": 7
+                },
+                {
+                    "name": "Tabulations",
+                    "value": 11
+                },
+                {
+                    "name": "Pictograms_(1 picture represents 10 or 100 units)",
+                    "value": 7
+                },
+                {
+                    "name": "Histograms",
+                    "value": 2
+                },
+                {
+                    "name": "Pie charts",
+                    "value": 8
+                },
+                {
+                    "name": "Scatter diagrams",
+                    "value": 4
+                },
+                {
+                    "name": "Cumulative frequency polygons and curves",
+                    "value": 5
+                },
+                {
+                    "name": "Frequecy polygons and curves",
+                    "value": 5
+                },
+                {
+                    "name": "Representations of information and data",
+                    "value": 7
+                },
+                {
+                    "name": "Measures of Central Tendency_(means, medians, modes)",
+                    "value": 6
+                },
+                {
+                    "name": "Probability_(empirical probabilities)",
+                    "value": 7
+                },
+                {
+                    "name": "Probability_(geometric probabilities)",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "name": "geometric",
+            "children": [{
+                    "name": "Deductive Geometry_(congruence and similarity)",
+                    "value": 15
+                },
+                {
+                    "name": "Pythagoras’ Theorem",
+                    "value": 12
+                },
+                {
+                    "name": "Proportionality",
+                    "value": 4
+                },
+                {
+                    "name": "Locus",
+                    "value": 1
+                },
+                {
+                    "name": "Coordinate systems",
+                    "value": 40
+                },
+                {
+                    "name": "Deductive geometry_(angles and lines)",
+                    "value": 50
+                },
+                {
+                    "name": "Deductive geometry_(geometric construction)",
+                    "value": 8
+                },
+                {
+                    "name": "Trigonometry",
+                    "value": 10
+                },
+                {
+                    "name": "Deductive Geometry_(centres and lines of triangles)",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "name": "mesures",
+            "children": [{
+                    "name": "Angles_(acute and obtuse angles)",
+                    "value": 10
+                },
+                {
+                    "name": "Time_(second)",
+                    "value": 14
+                },
+                {
+                    "name": "Time_(the 24-hour time)",
+                    "value": 7
+                },
+                {
+                    "name": "Area_(parallelograms, triangles, trapeziums and polygons)",
+                    "value": 51
+                },
+                {
+                    "name": "Speed",
+                    "value": 11
+                },
+                {
+                    "name": "Estimation in Measurement",
+                    "value": 5
+                },
+                {
+                    "name": "Area_(circles)",
+                    "value": 13
+                },
+                {
+                    "name": "Rate",
+                    "value": 10
+                },
+                {
+                    "name": "Volume_(pyramids, cones)",
+                    "value": 3
+                },
+                {
+                    "name": "Angles_(angles and right angles)",
+                    "value": 9
+                },
+                {
+                    "name": "Angles_(degree)",
+                    "value": 16
+                },
+                {
+                    "name": "Area_(squares, rectangles)",
+                    "value": 28
+                },
+                {
+                    "name": "Capacity",
+                    "value": 9
+                },
+                {
+                    "name": "Length and distance_(centimetre)",
+                    "value": 6
+                },
+                {
+                    "name": "Length and distance_(kilometre and millimetre)",
+                    "value": 16
+                },
+                {
+                    "name": "Perimeter_(circumference)",
+                    "value": 15
+                },
+                {
+                    "name": "Perimeter_(irregular shapes, squares and rectangles)",
+                    "value": 32
+                },
+                {
+                    "name": "Surface area_(prisms, cylinders)",
+                    "value": 9
+                },
+                {
+                    "name": "Time_(hour, minute)",
+                    "value": 4
+                },
+                {
+                    "name": "Time_(year, month, day, week)",
+                    "value": 8
+                },
+                {
+                    "name": "Volume_(capacity and volume)",
+                    "value": 12
+                },
+                {
+                    "name": "Volume_(cubes, cuboids)",
+                    "value": 11
+                },
+                {
+                    "name": "Volume_(prisms, cylinders)",
+                    "value": 11
+                },
+                {
+                    "name": "Weight",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "name": "numeric",
+            "children": [{
+                    "name": "Proportionality",
+                    "value": 19
+                },
+                {
+                    "name": "Division_(basic concept and computation)",
+                    "value": 1
+                },
+                {
+                    "name": "Numbers 1 to 20",
+                    "value": 1
+                },
+                {
+                    "name": "5-digit numbers",
+                    "value": 7
+                },
+                {
+                    "name": "Common multiples and common factors",
+                    "value": 13
+                },
+                {
+                    "name": "Divisibility_(Divisors are 2, 5 and 10)",
+                    "value": 6
+                },
+                {
+                    "name": "Division_(divisor 2 digits and dividend 2 or 3 digits)",
+                    "value": 16
+                },
+                {
+                    "name": "Decimals_(multiplication)",
+                    "value": 10
+                },
+                {
+                    "name": "Fractions_(division)",
+                    "value": 6
+                },
+                {
+                    "name": "Fractions_(multiplication)",
+                    "value": 17
+                },
+                {
+                    "name": "Decimals_(mixed operation)",
+                    "value": 11
+                },
+                {
+                    "name": "Recurring decimals",
+                    "value": 9
+                },
+                {
+                    "name": "Arithmetic properties_(distributive property)",
+                    "value": 6
+                },
+                {
+                    "name": "Direct Numbers_(operations)",
+                    "value": 31
+                },
+                {
+                    "name": "Directed Numbers_(basic concept and number line)",
+                    "value": 32
+                },
+                {
+                    "name": "Percentages (II)_(applications)",
+                    "value": 27
+                },
+                {
+                    "name": "Approximation and Errors",
+                    "value": 16
+                },
+                {
+                    "name": "Numeral systems and bases",
+                    "value": 4
+                },
+                {
+                    "name": "Ratio",
+                    "value": 32
+                },
+                {
+                    "name": "Rational and Irrational Numbers",
+                    "value": 4
+                },
+                {
+                    "name": "Addition and subtraction_(within 2 places)",
+                    "value": 5
+                },
+                {
+                    "name": "Addition and subtraction_(within 3 places)",
+                    "value": 21
+                },
+                {
+                    "name": "Addition and subtraction_(within 4 places)",
+                    "value": 21
+                },
+                {
+                    "name": "Arithmetic properties_(commutative and associative properties)",
+                    "value": 9
+                },
+                {
+                    "name": "Conversion between decimals and fractions",
+                    "value": 7
+                },
+                {
+                    "name": "Decimals_(addition and subtraction)",
+                    "value": 21
+                },
+                {
+                    "name": "Decimals_(basic concept)",
+                    "value": 12
+                },
+                {
+                    "name": "Decimals_(division)",
+                    "value": 11
+                },
+                {
+                    "name": "Divisibility_(Divisors are 3, 4, 6, 8, 9 and 11)",
+                    "value": 10
+                },
+                {
+                    "name": "Division_(divisor 1 digit and dividend 2 or 3 digits)",
+                    "value": 26
+                },
+                {
+                    "name": "Fractions_(addition and subtraction of fractions with different denominators)",
+                    "value": 23
+                },
+                {
+                    "name": "Fractions_(basic concept)",
+                    "value": 33
+                },
+                {
+                    "name": "Fractions_(equivalent fractions, addition and subtraction of fractions with the same denominator)",
+                    "value": 22
+                },
+                {
+                    "name": "Fractions_(mixed operation)",
+                    "value": 8
+                },
+                {
+                    "name": "Large numbers",
+                    "value": 23
+                },
+                {
+                    "name": "Mixed operations_(addition, subtraction, multiplication and brackets)",
+                    "value": 29
+                },
+                {
+                    "name": "Mixed operations_(the four operations)",
+                    "value": 24
+                },
+                {
+                    "name": "Multiples and factors",
+                    "value": 35
+                },
+                {
+                    "name": "Multiplication_(Basic concept and computation)",
+                    "value": 6
+                },
+                {
+                    "name": "Multiplication_(multiplier 1 digit and multiplicand 2 or 3 digits)",
+                    "value": 25
+                },
+                {
+                    "name": "Multiplication_(multiplier 2 digit and multiplicand 2 or 3 digits)",
+                    "value": 34
+                },
+                {
+                    "name": "Numbers 1 to 20",
+                    "value": 8
+                },
+                {
+                    "name": "Numerical Estimation",
+                    "value": 13
+                },
+                {
+                    "name": "Percentages (I)_(basic concept, Conversion bewteen percentages, decimals and fractions)",
+                    "value": 37
+                },
+                {
+                    "name": "Prime numbers and composite numbers",
+                    "value": 11
+                },
+                {
+                    "name": "Squares and square roots",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "name": "spatial",
+            "children": [{
+                    "name": "Direction_(the four directions)",
+                    "value": 2
+                },
+                {
+                    "name": "Direction_(‘over’, ‘under’, ‘left’, ‘right’, ‘in front of’ or ‘behind’)",
+                    "value": 2
+                },
+                {
+                    "name": "parallel and perpendicular",
+                    "value": 13
+                },
+                {
+                    "name": "Symmetry_(Reflectional)",
+                    "value": 30
+                },
+                {
+                    "name": "Direction_(the eight compass points)",
+                    "value": 9
+                },
+                {
+                    "name": "Symmetry_(Rotational)",
+                    "value": 18
+                },
+                {
+                    "name": "3-D shapes_(vertices, edges, faces)",
+                    "value": 8
+                },
+                {
+                    "name": "Symmetry_(3-D shape)",
+                    "value": 1
+                },
+                {
+                    "name": "Transformations",
+                    "value": 41
+                },
+                {
+                    "name": "3-D shapes_(Identifying points, lines and planes)",
+                    "value": 4
+                },
+                {
+                    "name": "Direction_(compass bearings)",
+                    "value": 5
+                },
+                {
+                    "name": "3-D shapes_(2-D representations, three-views)",
+                    "value": 12
+                },
+                {
+                    "name": "3-D shapes_(characteristics of shapes)",
+                    "value": 9
+                },
+                {
+                    "name": "3-D shapes_(Recognising shapes)",
+                    "value": 3
+                },
+                {
+                    "name": "3-D shapes_(sections, fitting, dissecting)",
+                    "value": 5
+                },
+                {
+                    "name": "Circles",
+                    "value": 10
+                },
+                {
+                    "name": "Fitting and dissecting 2-D shapes",
+                    "value": 17
+                },
+                {
+                    "name": "Nets_(cubes, cuboids, prisms)",
+                    "value": 24
+                },
+                {
+                    "name": "Nets_(pyramids and others)",
+                    "value": 10
+                },
+                {
+                    "name": "Quadrilaterals_(characteristics of parallelograms)",
+                    "value": 12
+                },
+                {
+                    "name": "Quadrilaterals_(characteristics of squares and reectangles)",
+                    "value": 9
+                },
+                {
+                    "name": "Quadrilaterals_(characteristics of trapeziums, rhombuses, kites and others )",
+                    "value": 21
+                },
+                {
+                    "name": "Recognising 2-D shapes",
+                    "value": 16
+                },
+                {
+                    "name": "Spatial patterns",
+                    "value": 30
+                },
+                {
+                    "name": "Tessellation",
+                    "value": 8
+                },
+                {
+                    "name": "Triangles",
+                    "value": 13
+                }
+            ]
+        }
+    ]
+}
